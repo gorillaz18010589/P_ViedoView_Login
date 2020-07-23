@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">P_ViedoView_Login</string>
+    //會員登入
+    <string name="login_title">会员登入</string>
+    <string name="login_tourist">先去逛逛</string>
+    <string name="login_account">帐号</string>
+    <string name="login_pwd">密码</string>
+    <string name="login_input_account">请输入帐号</string>
+    <string name="login_input_pwd">请输入您的密码</string>
+    <string name="login_remember_account">记住密码</string>
+    <string name="login_forget_account">忘記密碼</string>
+    <string name="login_login">登入</string>
+
+
+    //會員註冊
+    <string name="register_title">帐号注册</string>
+    <string name="register_confirm_pwd">确认密码</string>
+    <string name="register_captcha">验证码</string>
+    <string name="register_input_account">请输入6-12为英文与数字组合</string>
+    <string name="register_input_pwd">请输入6-12为英文或数字组合</string>
+    <string name="register_input_confirm_pwd">请再次输入密码</string>
+    <string name="register_input_confirm_captcha">请输入验证码</string>
+    <string name="register_register">注册</string>
 </resources>
