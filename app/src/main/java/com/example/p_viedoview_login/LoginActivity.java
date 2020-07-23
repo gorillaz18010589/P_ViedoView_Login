@@ -74,7 +74,7 @@ public class LoginActivity extends AppCompatActivity implements SurfaceHolder.Ca
             @Override
             public void onPrepared(MediaPlayer mediaPlayer) {
                 videoBG.setBackgroundColor(Color.TRANSPARENT);
-                loginParentContainer.setBackground(getResources().getDrawable(R.drawable.bg));
+                loginParentContainer.setBackground(getResources().getDrawable(R.drawable.bg2));
                 mediaPlayer.setOnInfoListener(new MediaPlayer.OnInfoListener() {
 
                     @Override
